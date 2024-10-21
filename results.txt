@@ -1,0 +1,193 @@
+./thready 3 3
+
+Thread 2 beginning, thread 134360606959168 sleeping for 2 seconds
+Thread 3 beginning, thread 134360598566464 sleeping for 6 seconds
+Thread 1 beginning, thread 134360615351872 sleeping for 4 seconds
+Thread 134360606959168 exiting
+Thread 134360615351872 exiting
+Thread 134360598566464 exiting
+
+./thready 5 3
+
+Thread 1 beginning, thread 140660141192768 sleeping for 8 seconds
+Thread 4 beginning, thread 140660036331072 sleeping for 4 seconds
+Thread 4 beginning, thread 140660132800064 sleeping for 1 seconds
+Thread 5 beginning, thread 140660044723776 sleeping for 7 seconds
+Thread 5 beginning, thread 140660124407360 sleeping for 2 seconds
+Thread 140660132800064 exiting
+Thread 140660124407360 exiting
+Thread 140660036331072 exiting
+Thread 140660044723776 exiting
+Thread 140660141192768 exiting
+
+./thready 50 3
+Thread 2 beginning, thread 135855819712064 sleeping for 1 seconds
+Thread 1 beginning, thread 135855828104768 sleeping for 2 seconds
+Thread 3 beginning, thread 135855811319360 sleeping for 6 seconds
+Thread 4 beginning, thread 135855802926656 sleeping for 8 seconds
+Thread 5 beginning, thread 135855721150016 sleeping for 8 seconds
+Thread 6 beginning, thread 135855712757312 sleeping for 2 seconds
+Thread 7 beginning, thread 135855704364608 sleeping for 6 seconds
+Thread 8 beginning, thread 135855695971904 sleeping for 1 seconds
+Thread 9 beginning, thread 135855687579200 sleeping for 1 seconds
+Thread 10 beginning, thread 135855679186496 sleeping for 7 seconds
+Thread 11 beginning, thread 135855670793792 sleeping for 8 seconds
+Thread 12 beginning, thread 135855662401088 sleeping for 6 seconds
+Thread 13 beginning, thread 135855654008384 sleeping for 1 seconds
+Thread 14 beginning, thread 135855645615680 sleeping for 6 seconds
+Thread 15 beginning, thread 135855637222976 sleeping for 4 seconds
+Thread 16 beginning, thread 135855628830272 sleeping for 1 seconds
+Thread 17 beginning, thread 135855620437568 sleeping for 1 seconds
+Thread 18 beginning, thread 135855612044864 sleeping for 6 seconds
+Thread 19 beginning, thread 135855603652160 sleeping for 1 seconds
+Thread 20 beginning, thread 135855595259456 sleeping for 8 seconds
+Thread 21 beginning, thread 135855586866752 sleeping for 2 seconds
+Thread 22 beginning, thread 135855578474048 sleeping for 4 seconds
+Thread 23 beginning, thread 135855570081344 sleeping for 2 seconds
+Thread 24 beginning, thread 135855561688640 sleeping for 8 seconds
+Thread 25 beginning, thread 135855553295936 sleeping for 4 seconds
+Thread 26 beginning, thread 135855544903232 sleeping for 7 seconds
+Thread 27 beginning, thread 135855536510528 sleeping for 2 seconds
+Thread 28 beginning, thread 135855528117824 sleeping for 3 seconds
+Thread 29 beginning, thread 135855519725120 sleeping for 7 seconds
+Thread 30 beginning, thread 135855511332416 sleeping for 6 seconds
+Thread 31 beginning, thread 135855502939712 sleeping for 2 seconds
+Thread 32 beginning, thread 135855494547008 sleeping for 1 seconds
+Thread 33 beginning, thread 135855486154304 sleeping for 6 seconds
+Thread 34 beginning, thread 135855477761600 sleeping for 7 seconds
+Thread 35 beginning, thread 135855469368896 sleeping for 4 seconds
+Thread 36 beginning, thread 135855460976192 sleeping for 7 seconds
+Thread 37 beginning, thread 135855452583488 sleeping for 4 seconds
+Thread 38 beginning, thread 135855444190784 sleeping for 2 seconds
+Thread 39 beginning, thread 135855427405376 sleeping for 8 seconds
+Thread 40 beginning, thread 135855435798080 sleeping for 8 seconds
+Thread 41 beginning, thread 135855419012672 sleeping for 3 seconds
+Thread 42 beginning, thread 135855410619968 sleeping for 7 seconds
+Thread 43 beginning, thread 135855385441856 sleeping for 2 seconds
+Thread 44 beginning, thread 135855402227264 sleeping for 6 seconds
+Thread 45 beginning, thread 135855393834560 sleeping for 4 seconds
+Thread 46 beginning, thread 135855377049152 sleeping for 4 seconds
+Thread 47 beginning, thread 135855368656448 sleeping for 3 seconds
+Thread 48 beginning, thread 135855360263744 sleeping for 2 seconds
+Thread 49 beginning, thread 135855351871040 sleeping for 2 seconds
+Thread 50 beginning, thread 135855343478336 sleeping for 4 seconds
+Thread 135855819712064 exiting
+Thread 135855695971904 exiting
+Thread 135855687579200 exiting
+Thread 135855654008384 exiting
+Thread 135855628830272 exiting
+Thread 135855620437568 exiting
+Thread 135855603652160 exiting
+Thread 135855494547008 exiting
+Thread 135855828104768 exiting
+Thread 135855712757312 exiting
+Thread 135855586866752 exiting
+Thread 135855570081344 exiting
+Thread 135855536510528 exiting
+Thread 135855502939712 exiting
+Thread 135855444190784 exiting
+Thread 135855385441856 exiting
+Thread 135855360263744 exiting
+Thread 135855351871040 exiting
+Thread 135855528117824 exiting
+Thread 135855419012672 exiting
+Thread 135855368656448 exiting
+Thread 135855637222976 exiting
+Thread 135855578474048 exiting
+Thread 135855553295936 exiting
+Thread 135855469368896 exiting
+Thread 135855452583488 exiting
+Thread 135855393834560 exiting
+Thread 135855377049152 exiting
+Thread 135855343478336 exiting
+Thread 135855811319360 exiting
+Thread 135855704364608 exiting
+Thread 135855662401088 exiting
+Thread 135855645615680 exiting
+Thread 135855612044864 exiting
+Thread 135855511332416 exiting
+Thread 135855486154304 exiting
+Thread 135855402227264 exiting
+Thread 135855679186496 exiting
+Thread 135855544903232 exiting
+Thread 135855519725120 exiting
+Thread 135855477761600 exiting
+Thread 135855460976192 exiting
+Thread 135855410619968 exiting
+Thread 135855802926656 exiting
+Thread 135855721150016 exiting
+Thread 135855670793792 exiting
+Thread 135855595259456 exiting
+Thread 135855561688640 exiting
+Thread 135855427405376 exiting
+Thread 135855435798080 exiting
+
+./thready 3 4
+
+Starting threads
+Thread 1 126658013034048 making Thread 2 126658004641344
+Thread 2 126658004641344 making Thread 3 126657996248640
+Thread 3 126657996248640 making Thread 4 126657914467904
+
+./thready 5 4
+
+Starting threads
+Thread 1 136932610799168 making Thread 2 136932602406464
+Thread 2 136932602406464 making Thread 3 136932594013760
+Thread 3 136932594013760 making Thread 4 136932585621056
+Thread 4 136932585621056 making Thread 5 136932577228352
+Thread 5 136932577228352 making Thread 6 136932568835648
+
+./thready 50 4
+
+Starting threads
+Thread 1 128545147844160 making Thread 2 128545139451456
+Thread 2 128545139451456 making Thread 3 128545131058752
+Thread 3 128545131058752 making Thread 4 128545122666048
+Thread 4 128545122666048 making Thread 5 128545114273344
+Thread 5 128545114273344 making Thread 6 128545105880640
+Thread 6 128545105880640 making Thread 7 128545097487936
+Thread 7 128545097487936 making Thread 8 128545015723584
+Thread 8 128545015723584 making Thread 9 128545007330880
+Thread 9 128545007330880 making Thread 10 128544998938176
+Thread 10 128544998938176 making Thread 11 128544990545472
+Thread 11 128544990545472 making Thread 12 128544982152768
+Thread 12 128544982152768 making Thread 13 128544973760064
+Thread 13 128544973760064 making Thread 14 128544965367360
+Thread 14 128544965367360 making Thread 15 128544956974656
+Thread 15 128544956974656 making Thread 16 128544948581952
+Thread 16 128544948581952 making Thread 17 128544940189248
+Thread 17 128544940189248 making Thread 18 128544931796544
+Thread 18 128544931796544 making Thread 19 128544923403840
+Thread 19 128544923403840 making Thread 20 128544915011136
+Thread 20 128544915011136 making Thread 21 128544906618432
+Thread 21 128544906618432 making Thread 22 128544898225728
+Thread 22 128544898225728 making Thread 23 128544889833024
+Thread 23 128544889833024 making Thread 24 128544881440320
+Thread 24 128544881440320 making Thread 25 128544873047616
+Thread 25 128544873047616 making Thread 26 128544864654912
+Thread 26 128544864654912 making Thread 27 128544856262208
+Thread 27 128544856262208 making Thread 28 128544847869504
+Thread 28 128544847869504 making Thread 29 128544839476800
+Thread 29 128544839476800 making Thread 30 128544831084096
+Thread 30 128544831084096 making Thread 31 128544822691392
+Thread 31 128544822691392 making Thread 32 128544814298688
+Thread 32 128544814298688 making Thread 33 128544805905984
+Thread 33 128544805905984 making Thread 34 128544797513280
+Thread 34 128544797513280 making Thread 35 128544789120576
+Thread 35 128544789120576 making Thread 36 128544780727872
+Thread 36 128544780727872 making Thread 37 128544772335168
+Thread 37 128544772335168 making Thread 38 128544763942464
+Thread 38 128544763942464 making Thread 39 128544755549760
+Thread 39 128544755549760 making Thread 40 128544747157056
+Thread 40 128544747157056 making Thread 41 128544738764352
+Thread 41 128544738764352 making Thread 42 128544730371648
+Thread 42 128544730371648 making Thread 43 128544721978944
+Thread 43 128544721978944 making Thread 44 128544713586240
+Thread 44 128544713586240 making Thread 45 128544705193536
+Thread 45 128544705193536 making Thread 46 128544696800832
+Thread 46 128544696800832 making Thread 47 128544688408128
+Thread 47 128544688408128 making Thread 48 128544680015424
+Thread 48 128544680015424 making Thread 49 128544671622720
+Thread 49 128544671622720 making Thread 50 128544663230016
+Thread 50 128544663230016 making Thread 51 128544654837312
